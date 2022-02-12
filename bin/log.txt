@@ -1,0 +1,14 @@
+===== Log started at 2022-02-12, 11:59:04. =====
+
+11:59:04  Main window is created.
+11:59:05  Created a rendering thread for OpenGL.
+11:59:05  OpenGL child window is created.
+11:59:05  OpenGL form dialog is created.
+11:59:05  Status bar window is created.
+11:59:05  Initialized OpenGL states.
+11:59:05  Initialized OpenGL viewport and projection matrix.
+11:59:05  Entering OpenGL rendering thread...
+11:59:17  Exit OpenGL rendering thread.
+
+
+===== END OF LOG =====
